@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aa7aa37-074c-400f-b95c-a91565e09a33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hometask-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommandDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommentCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommentCommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommentQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommentQueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Likable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Like.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LikeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LikeCommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LikeQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LikeQueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PostCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PostCommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PostQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PostQueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QueryDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1auUviEIUyBsPveFs9PtLcuyO8i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aa7aa37-074c-400f-b95c-a91565e09a33" name="Default Changelist" comment="" />
+      <created>1587585205009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587585205009</updated>
+      <workItem from="1587585234251" duration="6000" />
+      <workItem from="1587585365550" duration="8198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1587594137716">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587594137716" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1587585371474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587585371474" />
+  </component>
+</project>
