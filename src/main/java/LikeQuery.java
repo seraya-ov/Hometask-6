@@ -1,9 +1,7 @@
-import java.util.Collection;
-
 public class LikeQuery implements Query {
-    private Collection<Like> likes;
+    private int likes;
 
-    public Collection<Like> getLikes() {
+    public int getLikes() {
         return likes;
     }
 }

@@ -1,7 +1,5 @@
-import java.util.Collection;
-
-public class LikeQueryHandler implements QueryHandler<LikeQuery, Collection<Like>> {
-    public Collection<Like> execute(LikeQuery query) {
+public class LikeQueryHandler implements QueryHandler<LikeQuery, Integer> {
+    public Integer execute(LikeQuery query) {
         return query.getLikes();
     }
 }
