@@ -1,3 +1,7 @@
 public class LikeCommand implements Command {
-    private Likable obj;
+    private Likable likable;
+
+    public LikeCommand(Likable likable) {
+        this.likable = likable;
+    }
 }
